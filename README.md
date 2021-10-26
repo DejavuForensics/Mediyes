@@ -116,7 +116,7 @@ Gridinsoft| 1.39| 23.32| 75.28|
 AVware| 0.16| 0| 99.84|
 Avast-Mobile| 0| 72.82| 27.18|
 Zoner| 0| 99.79| 0.21|
-Babable| 0 11.05| 88.95|
+Babable| 0| 11.05| 88.95|
 Trustlook| 0| 11.15| 88.85|
 
 ###### Table 3 Miscellaneous classifications of commercial antiviruses:
