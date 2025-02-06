@@ -121,9 +121,81 @@ Trustlook| 0%| 11.15%| 88.85%|
 
 ###### Table 2 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_001627d61a1bde3478ca4965e738dc1e | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
+Antivírus | VirusShare_00137b2f5b7dce9169fe52d112782d79 | VirusShare_004275d4ed08a31db5ec99d99e7e8cb2 | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
-
+Bkav | HW32.Packed. | HW32.Packed.
+Lionic | Trojan.Win32.Generic.lpZj | Trojan.Win32.Generic.4!c
+MicroWorld-eScan | Gen:Variant.Graftor.20936 | Gen:Variant.Graftor.20936
+CMC | Rootkit.Win32.Mediyes!O | Rootkit.Win32.Mediyes!O
+CAT-QuickHeal | Trojan.Mediyes.B | Trojan.Mediyes.B
+Qihoo-360 | HEUR/Malware.QVM00.Gen | Win32/RootKit.Rootkit.bf8
+McAfee | GenericRXDQ-DN!00137B2F5B7D | Mediyes.a
+Cylance | Unsafe | Unsafe
+Zillya | Trojan.Mediyes.Win32.151 | Trojan.Mediyes.Win32.55
+Sangfor | Malware | Malware
+K7AntiVirus | Trojan ( 0055ec0f1 ) | Trojan ( 0055ec0f1 )
+Alibaba | Trojan:Win32/Mediyes.34c6136a | Trojan:Win32/Mediyes.e9340ed0
+K7GW | Trojan ( 0055ec0f1 ) | Trojan ( 0055ec0f1 )
+Cybereason | malicious.f5b7dc | Omission
+Arcabit | Trojan.Graftor.D51C8 | Trojan.Graftor.D51C8
+TrendMicro | False Negative | False Negative
+Baidu | False Negative | False Negative
+F-Prot | W32/Mediyes.B.gen!Eldorado | W32/Mediyes.B.gen!Eldorado
+Symantec | Hacktool.Rootkit | Hacktool.Rootkit
+TotalDefense | Win32/ArchSMS.BR!genus | Win32/ArchSMS.BR!genus
+APEX | Malicious | Malicious
+Paloalto | False Negative | False Negative
+ClamAV | False Negative | Win.Trojan.Mediyes-897
+Kaspersky | HEUR:Trojan.Win32.Generic | HEUR:Trojan.Win32.Generic
+BitDefender | Gen:Variant.Graftor.20936 | Gen:Variant.Graftor.20936
+NANO-Antivirus | Trojan.Win32.Mediyes.dzqjez | Trojan.Win32.Mediyes.wtfcy
+ViRobot | False Negative | False Negative
+Rising | Trojan.Mediyes!8.BCB (CLOUD) | rojan.Mediyes!8.BCB (CLOUD
+Ad-Aware | Gen:Variant.Graftor.20936 | Gen:Variant.Graftor.20936
+Sophos | Mal/Mediyes-B | Mal/Mediyes-B
+Comodo | TrojWare.Win32.Mediyes.D@4mwpdu | TrojWare.Win32.Mediyes.D@4mwpdu
+F-Secure | Trojan.TR/Rootkit.Gen | Trojan.TR/Rootkit.Gen
+DrWeb | Trojan.Mediyes.1 | Trojan.Mediyes.1
+VIPRE | Trojan.WinNT.Mediyes.b (v) | Trojan.WinNT.Mediyes.b (v)
+Invincea | heuristic | heuristic
+McAfee-GW-Edition | GenericRXDQ-DN!00137B2F5B7D | Mediyes.a
+Fortinet | W32/Mediyes.D!tr | W32/Mediyes.D!tr
+Trapmine | malicious.high.ml.score | malicious.high.ml.score
+FireEye | Generic.mg.00137b2f5b7dce91 | Generic.mg.004275d4ed08a31d
+Emsisoft | Gen:Variant.Graftor.20936 (B) | Gen:Variant.Graftor.20936 (B)
+Ikarus | Rootkit.Win32.Mediyes | Trojan.WinNT.Mediyes
+Cyren | W32/Mediyes.B.gen!Eldorado | W32/Mediyes.B.gen!Eldorado
+Jiangmin | Rootkit.Mediyes.w | Trojan/Generic.xstr
+Webroot | W32.Trojan.Gen | W32.Trojan.Gen
+Avira | TR/Rootkit.Gen | TR/Rootkit.Gen
+MAX | malware (ai score=100) | malware (ai score=100)
+Antiy-AVL | Trojan/Win32.Unknown | Trojan/Win32.Unknown
+Kingsoft | False Negative | False Negative
+Endgame | malicious (high confidence) | malicious (high confidence)
+Microsoft | Trojan:WinNT/Mediyes.B | Trojan:WinNT/Mediyes.B
+SUPERAntiSpyware | False Negative | False Negative
+ZoneAlarm | HEUR:Trojan.Win32.Generic | HEUR:Trojan.Win32.Generic
+Avast-Mobile | False Negative | False Negative
+AhnLab-V3 | Trojan/Win32.Rootkit.R22021 | Trojan/Win32.Rootkit.R22021
+Acronis | suspicious | suspicious
+BitDefenderTheta | False Negative | False Negative
+ALYac | Gen:Variant.Graftor.20936 | Gen:Variant.Graftor.20936
+TACHYON | False Negative | False Negative
+VBA32 | BScope.Trojan.Mediyes | BScope.Trojan.Mediyes
+Malwarebytes | False Negative | False Negative
+Panda | Generic Malware | Generic Malware
+Zoner | False Negative | False Negative
+ESET-NOD32 | a variant of Win32/Mediyes.E | a variant of Win32/Mediyes.E
+TrendMicro-HouseCall | TROJ_MEDIYES_0000030.TOMA | TROJ_MEDIYES_000000e.TOMA
+Tencent | Win32.Trojan.Generic.Jz | Rootkit.Rootkit.Rootkit.Bnm
+Yandex | Rootkit.Mediyes.Gen | Trojan.Mediyes!p1wtGNydTdU
+SentinelOne | False Negative | False Negative
+eGambit | Generic.Malware- | False Negative
+GData | Win32.Rootkit.Mediyes.B | Win32.Rootkit.Mediyes.B
+AVG | Win32:FakeAlert-CGQ [Trj] | Win32:FakeAlert-CGQ [Trj]
+Avast | Win32:FakeAlert-CGQ [Trj] | Win32:FakeAlert-CGQ [Trj]
+CrowdStrike | False Negative | win/malicious_confidence_60% (D)
+MaxSecure | False Negative | False Negative
 
 ## Materials and Methods
 
