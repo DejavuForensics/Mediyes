@@ -121,8 +121,8 @@ Trustlook| 0%| 11.15%| 88.85%|
 
 ###### Table 2 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_00137b2f5b7dce9169fe52d112782d79 | VirusShare_004275d4ed08a31db5ec99d99e7e8cb2 | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
---------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
+Antivírus | VirusShare_00137b2f5b7dce9169fe52d112782d79 | VirusShare_004275d4ed08a31db5ec99d99e7e8cb2 
+--------- | ------------------------------------------- | ------------------------------------------- 
 Bkav | HW32.Packed. | HW32.Packed.
 Lionic | Trojan.Win32.Generic.lpZj | Trojan.Win32.Generic.4!c
 MicroWorld-eScan | Gen:Variant.Graftor.20936 | Gen:Variant.Graftor.20936
